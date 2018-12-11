@@ -1,5 +1,5 @@
 <html>
-  <table =border=1px bgcolor=rgb(255, 51, 204)>
+  <table =border=1px bgcolor=pink>
     <tr>
       <th> Period </th>
         <th> Class </th>
