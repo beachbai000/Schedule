@@ -36,6 +36,15 @@
       <tr>
         <td> Jayme</tr>
     </tr>
+     <tr>
+         <td align= "center" rowspan=2> Advisory 2</td>
+         <td rowspan=2>9:10-9:35</td>
+         <td rowspan=2> Tuesday, Thursday, and Friday</td>
+         <td> NW 225</td>
+    </tr>
+      <tr>
+        <td> Rockne</tr>
+    </tr>
        <tr>
          <td align= "center" rowspan=2> 3</td>
           <td rowspan=2> 9:40-10:30</td>
@@ -45,6 +54,7 @@
       <tr>
         <td> Mrs. Kellogg</td>
     </tr>
+    
   </table>
   </body>
 </html>
